@@ -2,4 +2,4 @@
 
 Created rock-paper-schissor game
 
-https://elenaivcn.github.io/Homework-4
+https://elenaivcn.github.io/Homework-4/
